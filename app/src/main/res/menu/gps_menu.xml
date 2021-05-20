@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:title="홈화면" />
+    <item
+        android:id="@+id/msg"
+        android:title="문구변경" />
+    <item
+        android:id="@+id/call"
+        android:title="연락처수정" />
+</menu>
